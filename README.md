@@ -66,8 +66,8 @@
 <br/>
 <p align="left">
   <a href="https://janitaroyseth.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=janital&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=janital&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=janitaroyseth&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=janitaroyseth&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
