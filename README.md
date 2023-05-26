@@ -24,6 +24,10 @@
   <img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript">
 </a>
 
+<a margin="10" href="https://www.typescriptlang.org/" target="_blank">
+  <img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript">
+</a>
+
 <a margin="10" href="https://sass-lang.com" target="_blank">
   <img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass"></a>
   
